@@ -16,5 +16,11 @@ namespace GithubPushNotifications
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            notificationer notifier = new notificationer();
+            notifier.create_notification();
+        }
     }
 }
