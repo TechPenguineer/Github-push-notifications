@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace GithubPushNotifications
 {
-    public partial class Form1 : Form
+    public partial class gpn : Form
     {
-        public Form1()
+        public gpn()
         {
             InitializeComponent();
         }
@@ -20,7 +20,7 @@ namespace GithubPushNotifications
         private void Form1_Load(object sender, EventArgs e)
         {
             notificationer notifier = new notificationer();
-            notifier.create_notification();
+            notifier.create_new_config_option();
         }
     }
 }

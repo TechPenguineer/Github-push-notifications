@@ -11,10 +11,10 @@ D:\Desktop\gpn\Github-push-notifications\GithubPushNotifications\GithubPushNotif
 D:\Desktop\gpn\Github-push-notifications\GithubPushNotifications\GithubPushNotifications\bin\Debug\Microsoft.Toolkit.Uwp.Notifications.xml
 D:\Desktop\gpn\Github-push-notifications\GithubPushNotifications\GithubPushNotifications\bin\Debug\System.ValueTuple.xml
 D:\Desktop\gpn\Github-push-notifications\GithubPushNotifications\GithubPushNotifications\obj\Debug\GithubPushNotifications.csproj.AssemblyReference.cache
-D:\Desktop\gpn\Github-push-notifications\GithubPushNotifications\GithubPushNotifications\obj\Debug\GithubPushNotifications.Form1.resources
 D:\Desktop\gpn\Github-push-notifications\GithubPushNotifications\GithubPushNotifications\obj\Debug\GithubPushNotifications.Properties.Resources.resources
 D:\Desktop\gpn\Github-push-notifications\GithubPushNotifications\GithubPushNotifications\obj\Debug\GithubPushNotifications.csproj.GenerateResource.cache
 D:\Desktop\gpn\Github-push-notifications\GithubPushNotifications\GithubPushNotifications\obj\Debug\GithubPushNotifications.csproj.CoreCompileInputs.cache
 D:\Desktop\gpn\Github-push-notifications\GithubPushNotifications\GithubPushNotifications\obj\Debug\GithubPushNotifications.csproj.CopyComplete
 D:\Desktop\gpn\Github-push-notifications\GithubPushNotifications\GithubPushNotifications\obj\Debug\GithubPushNotifications.exe
 D:\Desktop\gpn\Github-push-notifications\GithubPushNotifications\GithubPushNotifications\obj\Debug\GithubPushNotifications.pdb
+D:\Desktop\gpn\Github-push-notifications\GithubPushNotifications\GithubPushNotifications\obj\Debug\GithubPushNotifications.gpn.resources
